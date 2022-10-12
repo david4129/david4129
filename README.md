@@ -1,3 +1,6 @@
+element {
+  font-size: 75;
+}
 - 👋 Hi, I’m David Ekpo
 - 👀 I’m interested in Data Science and Business Intelligence Analysis
 - 💞️ I’m looking to collaborate on projects related to solving business and social oriented problems
