@@ -1,7 +1,7 @@
 - 👋 Hi, I’m David Ekpo
 - 👀 I’m interested in Data Science and Business Intelligence Analysis
 - 💞️ I’m looking to collaborate on projects related to solving business and social oriented problems
-- 📫 How to reach me ...
+- 📫 You can reach me on jofesdavid@gmail.com
 
 <!---
 david4129/david4129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
