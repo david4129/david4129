@@ -4,7 +4,7 @@
 <div id="badges" align="center">
   
   <a href="https://www.linkedin.com/in/david-ekpo-4b553718a/">
-      <img src="https://img.shields.io/badge/David Ekpo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="David Ekpo"/>
+      <img src="https://img.shields.io/badge/David Ekpo-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/DavidEk60740552">
     <img src="https://img.shields.io/badge/EkpoDavid20-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
