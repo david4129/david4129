@@ -41,6 +41,16 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>
   <img src="https://camo.githubusercontent.com/109927a15915074d15313889468aa9aa688de3b9e38cc4359a01f665d351114e/68747470733a2f2f6d6174706c6f746c69622e6f72672f5f7374617469632f6c6f676f322e737667" title="Git" **alt="Git" width="60" height="60"/>
 </div>
+
+### :bar_chart: Projects :
+<div> 
+    <body> Below are some of projects I was able to complete. It comprises of supervised machine learning, time series analysis, finance and Data Analysis. Feel free to check out any of them using the list below:
+        <ul type = "square"> 
+            <li> <a href="https://github.com/david4129/Portfolio-Optimization">Portfolio Optimization with Python</a> </li>
+            <li> <a href="https://github.com/david4129/Financial-Inclusion">Financial Inclusion with Python</a> </li>
+        </ul>
+    </body>
+</div>
 <!---
 david4129/david4129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
