@@ -45,9 +45,10 @@
 ### :bar_chart: Projects :
 <div> 
     <body> Below are some of projects I was able to complete. It comprises of supervised machine learning, time series analysis, finance and Data Analysis. Feel free to check out any of them using the list below:
-        <ul type = "square"> 
+        <ul type = "disc"> 
             <li> <a href="https://github.com/david4129/Portfolio-Optimization">Portfolio Optimization with Python</a> </li>
             <li> <a href="https://github.com/david4129/Financial-Inclusion">Financial Inclusion with Python</a> </li>
+            <li> <a href="https://github.com/david4129/Hamoye-Premier-Project">Divorce Prediction</a> </li>
         </ul>
     </body>
 </div>
