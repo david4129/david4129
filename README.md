@@ -49,6 +49,9 @@
             <li> <a href="https://github.com/david4129/Portfolio-Optimization">Portfolio Optimization with Python</a> </li>
             <li> <a href="https://github.com/david4129/Financial-Inclusion">Financial Inclusion with Python</a> </li>
             <li> <a href="https://github.com/david4129/Hamoye-Premier-Project">Divorce Prediction</a> </li>
+            <li> <a href="https://github.com/david4129/Social-Media-Analysis-Project">Social Media Analysis</a> </li>
+            <li> <a href="https://github.com/david4129/Web-Scraping-Real-Estate-Data-Analyzing-Property-Listings-from-Rightmove">Web scraping</a> </li>
+        
         </ul>
     </body>
 </div>
