@@ -52,8 +52,6 @@
             <li> <a href="https://github.com/david4129/Social-Media-Analysis-Project">Social Media Analysis</a> </li>
             <li> <a href="https://github.com/david4129/Web-Scraping-Real-Estate-Data-Analyzing-Property-Listings-from-Rightmove">Web scraping</a> </li>
         
-        </ul>
-    </body>
 </div>
 <!---
 david4129/david4129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
